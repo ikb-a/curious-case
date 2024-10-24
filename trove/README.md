@@ -45,7 +45,7 @@ NOTE: To reduce the storage requirements, we searched for overly long program ou
     python one_time_setup/download_hf_files.py
     ```
 
-2. Download the singularity file `trove_sing_v4.sif` from ANONIMYZED (too large to include in supplemental), and place it in this directory.
+2. Download the singularity file `trove_sing_v4.sif` from this link [COMING SOON!], and place it in this directory.
 
 2. Go into [exec_baseline_trove.sh](exec_baseline_trove.sh) and [exec_ablated_trove.sh](exec_ablated_trove.sh). Edit the environment variables in the header:
     - EXPERIMENT_NAME: The name for this experiment. A subfolder with this name will be created to store the experiment results.
