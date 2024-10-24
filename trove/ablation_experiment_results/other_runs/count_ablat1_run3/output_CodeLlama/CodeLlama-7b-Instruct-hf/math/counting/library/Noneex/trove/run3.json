@@ -1,0 +1,20 @@
+# %% import math (import)
+import math
+
+
+# %% import itertools (import)
+import itertools
+
+
+# %% from math import factorial (import)
+from math import factorial
+
+
+# %% from itertools import permutations (import)
+from itertools import permutations
+
+
+# %% import random (import)
+import random
+
+

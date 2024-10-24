@@ -1,0 +1,33 @@
+# %% import math (import)
+import math
+
+
+# %% import itertools (import)
+import itertools
+
+
+# %% from math import factorial (import)
+from math import factorial
+
+
+# %% import random (import)
+import random
+
+
+# %%  (function)
+
+def round_table_seating(n, john_sam=False):
+    if n == 1:
+        return 1
+    if n == 2:
+        return 1
+    if n == 3:
+        return 1
+    if n == 4:
+        return 1
+    if n == 5:
+        return 1
+    if n == 6:
+        return 1
+
+

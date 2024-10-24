@@ -1,0 +1,423 @@
+Running 12 examples, 50 attemptes, ISOLATED!!! i.e., separate databases for each
+Attempting subst of 5% val, 50 retries; ISOLATED
+Started at:
+2024-09-17T09:13:32-04:00
+Sketch to finish: 600
+Subprocess chroma_worker_mathd_numbertheory_149 started with PID 28356.
+Subprocess chroma_worker_aime_1991_p6 started with PID 28434.
+Subprocess chroma_worker_mathd_algebra_31 started with PID 28553.
+Subprocess chroma_worker_amc12b_2002_p3 started with PID 28642.
+Subprocess chroma_worker_amc12a_2013_p8 started with PID 28734.
+Subprocess chroma_worker_amc12b_2003_p9 started with PID 28811.
+Subprocess chroma_worker_amc12a_2021_p7 started with PID 28920.
+Subprocess chroma_worker_mathd_algebra_109 started with PID 28977.
+Subprocess chroma_worker_numbertheory_sqmod4in01d started with PID 29079.
+Subprocess chroma_worker_algebra_2varlineareq_xpeeq7_2xpeeq3_eeq11_xeqn4 started with PID 29144.
+Subprocess chroma_worker_amc12a_2008_p15 started with PID 29216.
+Subprocess chroma_worker_mathd_algebra_116 started with PID 29376.
+Waiting on process <Process name='Prover0' pid=29433 parent=28100 started>
+Subprocess isabelle_server started with PID 29451.
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 1, Progress: 1/?, Sketch remaining: 597Pass rate: 0.0
+Subprocess isabelle_server started with PID 29638.
+.Subprocess isabelle_server started with PID 29616.
+.Subprocess isabelle_server started with PID 29686.
+.Subprocess isabelle_server started with PID 29672.
+.Subprocess isabelle_server started with PID 29632.
+.Subprocess isabelle_server started with PID 29615.
+.Subprocess isabelle_server started with PID 29449.
+.Subprocess isabelle_server started with PID 29705.
+.Subprocess isabelle_server started with PID 29439.
+Success: True - [data/full_data/debug/valid_rand/mathd_algebra_109.json], try: 1, Progress: 2/?, Sketch remaining: 596Pass rate: 0.5
+Success: False - [data/full_data/debug/valid_rand/algebra_2varlineareq_xpeeq7_2xpeeq3_eeq11_xeqn4.json], try: 1, Progress: 3/?, Sketch remaining: 595Pass rate: 0.3333333333333333
+......Subprocess isabelle_server started with PID 29626.
+....................Success: False - [data/full_data/debug/valid_rand/amc12b_2003_p9.json], try: 1, Progress: 4/?, Sketch remaining: 594Pass rate: 0.25
+...Success: False - [data/full_data/debug/valid_rand/amc12a_2013_p8.json], try: 1, Progress: 5/?, Sketch remaining: 593Pass rate: 0.2
+......Success: False - [data/full_data/debug/valid_rand/numbertheory_sqmod4in01d.json], try: 1, Progress: 6/?, Sketch remaining: 592Pass rate: 0.16666666666666666
+.....................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 1, Progress: 7/?, Sketch remaining: 591Pass rate: 0.14285714285714285
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 1, Progress: 8/?, Sketch remaining: 590Pass rate: 0.125
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 1, Progress: 9/?, Sketch remaining: 589Pass rate: 0.1111111111111111
+.Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 1, Progress: 10/?, Sketch remaining: 588Pass rate: 0.1
+...Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 1, Progress: 11/?, Sketch remaining: 587Pass rate: 0.09090909090909091
+........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 2, Progress: 11/?, Sketch remaining: 585Pass rate: 0.09090909090909091
+...Success: False - [data/full_data/debug/valid_rand/algebra_2varlineareq_xpeeq7_2xpeeq3_eeq11_xeqn4.json], try: 2, Progress: 11/?, Sketch remaining: 584Pass rate: 0.09090909090909091
+Success: False - [data/full_data/debug/valid_rand/amc12b_2003_p9.json], try: 2, Progress: 11/?, Sketch remaining: 583Pass rate: 0.09090909090909091
+........Success: False - [data/full_data/debug/valid_rand/amc12a_2013_p8.json], try: 2, Progress: 11/?, Sketch remaining: 582Pass rate: 0.09090909090909091
+Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 1, Progress: 12/?, Sketch remaining: 581Pass rate: 0.08333333333333333
+.........Success: False - [data/full_data/debug/valid_rand/numbertheory_sqmod4in01d.json], try: 2, Progress: 12/?, Sketch remaining: 580Pass rate: 0.08333333333333333
+............Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 2, Progress: 12/?, Sketch remaining: 579Pass rate: 0.08333333333333333
+.............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 2, Progress: 12/?, Sketch remaining: 578Pass rate: 0.08333333333333333
+.Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 2, Progress: 12/?, Sketch remaining: 577Pass rate: 0.08333333333333333
+..................Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 2, Progress: 12/?, Sketch remaining: 576Pass rate: 0.08333333333333333
+Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 2, Progress: 12/?, Sketch remaining: 575Pass rate: 0.08333333333333333
+........Success: True - [data/full_data/debug/valid_rand/algebra_2varlineareq_xpeeq7_2xpeeq3_eeq11_xeqn4.json], try: 3, Progress: 12/?, Sketch remaining: 573Pass rate: 0.16666666666666666
+.............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 3, Progress: 12/?, Sketch remaining: 572Pass rate: 0.16666666666666666
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2013_p8.json], try: 3, Progress: 12/?, Sketch remaining: 571Pass rate: 0.16666666666666666
+..............Success: False - [data/full_data/debug/valid_rand/amc12b_2003_p9.json], try: 3, Progress: 12/?, Sketch remaining: 570Pass rate: 0.16666666666666666
+..Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 1, Progress: 12/?, Sketch remaining: 569Pass rate: 0.16666666666666666
+.......Success: False - [data/full_data/debug/valid_rand/numbertheory_sqmod4in01d.json], try: 3, Progress: 12/?, Sketch remaining: 568Pass rate: 0.16666666666666666
+.........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 3, Progress: 12/?, Sketch remaining: 567Pass rate: 0.16666666666666666
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 2, Progress: 12/?, Sketch remaining: 566Pass rate: 0.16666666666666666
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 3, Progress: 12/?, Sketch remaining: 565Pass rate: 0.16666666666666666
+...........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 3, Progress: 12/?, Sketch remaining: 564Pass rate: 0.16666666666666666
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 4, Progress: 12/?, Sketch remaining: 561Pass rate: 0.16666666666666666
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 3, Progress: 12/?, Sketch remaining: 560Pass rate: 0.16666666666666666
+...............Success: False - [data/full_data/debug/valid_rand/amc12a_2013_p8.json], try: 4, Progress: 12/?, Sketch remaining: 559Pass rate: 0.16666666666666666
+....Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 3, Progress: 12/?, Sketch remaining: 558Pass rate: 0.16666666666666666
+...Success: True - [data/full_data/debug/valid_rand/amc12b_2003_p9.json], try: 4, Progress: 12/?, Sketch remaining: 557Pass rate: 0.25
+....................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 4, Progress: 12/?, Sketch remaining: 556Pass rate: 0.25
+Success: False - [data/full_data/debug/valid_rand/numbertheory_sqmod4in01d.json], try: 4, Progress: 12/?, Sketch remaining: 555Pass rate: 0.25
+..Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 4, Progress: 12/?, Sketch remaining: 554Pass rate: 0.25
+......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 4, Progress: 12/?, Sketch remaining: 553Pass rate: 0.25
+............Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 4, Progress: 12/?, Sketch remaining: 552Pass rate: 0.25
+........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 5, Progress: 12/?, Sketch remaining: 549Pass rate: 0.25
+......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 4, Progress: 12/?, Sketch remaining: 547Pass rate: 0.25
+..Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 4, Progress: 12/?, Sketch remaining: 546Pass rate: 0.25
+..Success: True - [data/full_data/debug/valid_rand/amc12a_2013_p8.json], try: 5, Progress: 12/?, Sketch remaining: 545Pass rate: 0.3333333333333333
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 5, Progress: 12/?, Sketch remaining: 544Pass rate: 0.3333333333333333
+.............Success: False - [data/full_data/debug/valid_rand/numbertheory_sqmod4in01d.json], try: 5, Progress: 12/?, Sketch remaining: 543Pass rate: 0.3333333333333333
+......Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 5, Progress: 12/?, Sketch remaining: 542Pass rate: 0.3333333333333333
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 5, Progress: 12/?, Sketch remaining: 541Pass rate: 0.3333333333333333
+......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 5, Progress: 12/?, Sketch remaining: 540Pass rate: 0.3333333333333333
+.............Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 5, Progress: 12/?, Sketch remaining: 537Pass rate: 0.3333333333333333
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 6, Progress: 12/?, Sketch remaining: 534Pass rate: 0.3333333333333333
+.........................................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 6, Progress: 12/?, Sketch remaining: 533Pass rate: 0.3333333333333333
+...................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 6, Progress: 12/?, Sketch remaining: 532Pass rate: 0.3333333333333333
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 6, Progress: 12/?, Sketch remaining: 531Pass rate: 0.3333333333333333
+...........................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 6, Progress: 12/?, Sketch remaining: 530Pass rate: 0.3333333333333333
+........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 5, Progress: 12/?, Sketch remaining: 529Pass rate: 0.3333333333333333
+Success: False - [data/full_data/debug/valid_rand/numbertheory_sqmod4in01d.json], try: 6, Progress: 12/?, Sketch remaining: 528Pass rate: 0.3333333333333333
+.............Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 6, Progress: 12/?, Sketch remaining: 525Pass rate: 0.3333333333333333
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 6, Progress: 12/?, Sketch remaining: 522Pass rate: 0.3333333333333333
+..........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 7, Progress: 12/?, Sketch remaining: 521Pass rate: 0.3333333333333333
+......Success: True - [data/full_data/debug/valid_rand/numbertheory_sqmod4in01d.json], try: 7, Progress: 12/?, Sketch remaining: 520Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 7, Progress: 12/?, Sketch remaining: 519Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 7, Progress: 12/?, Sketch remaining: 518Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 7, Progress: 12/?, Sketch remaining: 517Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 7, Progress: 12/?, Sketch remaining: 516Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 8, Progress: 12/?, Sketch remaining: 513Pass rate: 0.4166666666666667
+.......................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 7, Progress: 12/?, Sketch remaining: 510Pass rate: 0.4166666666666667
+...................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 7, Progress: 12/?, Sketch remaining: 508Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 8, Progress: 12/?, Sketch remaining: 507Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 7, Progress: 12/?, Sketch remaining: 506Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 8, Progress: 12/?, Sketch remaining: 505Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 8, Progress: 12/?, Sketch remaining: 504Pass rate: 0.4166666666666667
+.............Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 8, Progress: 12/?, Sketch remaining: 501Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 9, Progress: 12/?, Sketch remaining: 498Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 9, Progress: 12/?, Sketch remaining: 496Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 9, Progress: 12/?, Sketch remaining: 495Pass rate: 0.4166666666666667
+....................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 9, Progress: 12/?, Sketch remaining: 494Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 9, Progress: 12/?, Sketch remaining: 493Pass rate: 0.4166666666666667
+................................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 7, Progress: 12/?, Sketch remaining: 492Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 8, Progress: 12/?, Sketch remaining: 489Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 9, Progress: 12/?, Sketch remaining: 486Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 10, Progress: 12/?, Sketch remaining: 484Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 10, Progress: 12/?, Sketch remaining: 483Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 10, Progress: 12/?, Sketch remaining: 482Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 10, Progress: 12/?, Sketch remaining: 481Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 10, Progress: 12/?, Sketch remaining: 480Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 10, Progress: 12/?, Sketch remaining: 477Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 10, Progress: 12/?, Sketch remaining: 474Pass rate: 0.4166666666666667
+.............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 11, Progress: 12/?, Sketch remaining: 472Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 11, Progress: 12/?, Sketch remaining: 471Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 11, Progress: 12/?, Sketch remaining: 470Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 11, Progress: 12/?, Sketch remaining: 469Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 11, Progress: 12/?, Sketch remaining: 468Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 12, Progress: 12/?, Sketch remaining: 465Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 11, Progress: 12/?, Sketch remaining: 462Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 12, Progress: 12/?, Sketch remaining: 460Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 11, Progress: 12/?, Sketch remaining: 459Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 12, Progress: 12/?, Sketch remaining: 458Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 12, Progress: 12/?, Sketch remaining: 457Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 11, Progress: 12/?, Sketch remaining: 456Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 13, Progress: 12/?, Sketch remaining: 453Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 12, Progress: 12/?, Sketch remaining: 450Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 12, Progress: 12/?, Sketch remaining: 448Pass rate: 0.4166666666666667
+...............Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 13, Progress: 12/?, Sketch remaining: 447Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 13, Progress: 12/?, Sketch remaining: 446Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 13, Progress: 12/?, Sketch remaining: 445Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 13, Progress: 12/?, Sketch remaining: 444Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 13, Progress: 12/?, Sketch remaining: 441Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 13, Progress: 12/?, Sketch remaining: 438Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 14, Progress: 12/?, Sketch remaining: 436Pass rate: 0.4166666666666667
+..................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 14, Progress: 12/?, Sketch remaining: 435Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 14, Progress: 12/?, Sketch remaining: 434Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 14, Progress: 12/?, Sketch remaining: 433Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 14, Progress: 12/?, Sketch remaining: 432Pass rate: 0.4166666666666667
+........................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 15, Progress: 12/?, Sketch remaining: 429Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 14, Progress: 12/?, Sketch remaining: 426Pass rate: 0.4166666666666667
+....................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 15, Progress: 12/?, Sketch remaining: 424Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 14, Progress: 12/?, Sketch remaining: 423Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 15, Progress: 12/?, Sketch remaining: 422Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 15, Progress: 12/?, Sketch remaining: 421Pass rate: 0.4166666666666667
+...........................Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 15, Progress: 12/?, Sketch remaining: 420Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 16, Progress: 12/?, Sketch remaining: 417Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 16, Progress: 12/?, Sketch remaining: 414Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 15, Progress: 12/?, Sketch remaining: 412Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 14, Progress: 12/?, Sketch remaining: 411Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 15, Progress: 12/?, Sketch remaining: 410Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 15, Progress: 12/?, Sketch remaining: 409Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 16, Progress: 12/?, Sketch remaining: 408Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 17, Progress: 12/?, Sketch remaining: 405Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 16, Progress: 12/?, Sketch remaining: 402Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 16, Progress: 12/?, Sketch remaining: 400Pass rate: 0.4166666666666667
+...........................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 17, Progress: 12/?, Sketch remaining: 399Pass rate: 0.4166666666666667
+...................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 17, Progress: 12/?, Sketch remaining: 398Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 17, Progress: 12/?, Sketch remaining: 397Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 17, Progress: 12/?, Sketch remaining: 396Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 17, Progress: 12/?, Sketch remaining: 393Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 18, Progress: 12/?, Sketch remaining: 390Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 18, Progress: 12/?, Sketch remaining: 388Pass rate: 0.4166666666666667
+......................Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 17, Progress: 12/?, Sketch remaining: 387Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 18, Progress: 12/?, Sketch remaining: 386Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 18, Progress: 12/?, Sketch remaining: 385Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 18, Progress: 12/?, Sketch remaining: 384Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 18, Progress: 12/?, Sketch remaining: 381Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 19, Progress: 12/?, Sketch remaining: 378Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 19, Progress: 12/?, Sketch remaining: 376Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 19, Progress: 12/?, Sketch remaining: 375Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 18, Progress: 12/?, Sketch remaining: 374Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 19, Progress: 12/?, Sketch remaining: 373Pass rate: 0.4166666666666667
+...............Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 19, Progress: 12/?, Sketch remaining: 372Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 19, Progress: 12/?, Sketch remaining: 369Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 20, Progress: 12/?, Sketch remaining: 366Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 19, Progress: 12/?, Sketch remaining: 364Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 20, Progress: 12/?, Sketch remaining: 363Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 20, Progress: 12/?, Sketch remaining: 362Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 20, Progress: 12/?, Sketch remaining: 361Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 20, Progress: 12/?, Sketch remaining: 360Pass rate: 0.4166666666666667
+.............Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 20, Progress: 12/?, Sketch remaining: 357Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 21, Progress: 12/?, Sketch remaining: 354Pass rate: 0.4166666666666667
+...............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 20, Progress: 12/?, Sketch remaining: 352Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 21, Progress: 12/?, Sketch remaining: 351Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 21, Progress: 12/?, Sketch remaining: 350Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 21, Progress: 12/?, Sketch remaining: 349Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 21, Progress: 12/?, Sketch remaining: 348Pass rate: 0.4166666666666667
+...................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 22, Progress: 12/?, Sketch remaining: 345Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 22, Progress: 12/?, Sketch remaining: 342Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 21, Progress: 12/?, Sketch remaining: 340Pass rate: 0.4166666666666667
+.......................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 22, Progress: 12/?, Sketch remaining: 339Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 22, Progress: 12/?, Sketch remaining: 338Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 21, Progress: 12/?, Sketch remaining: 337Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 22, Progress: 12/?, Sketch remaining: 336Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 21, Progress: 12/?, Sketch remaining: 333Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 22, Progress: 12/?, Sketch remaining: 330Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 23, Progress: 12/?, Sketch remaining: 328Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 23, Progress: 12/?, Sketch remaining: 327Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 23, Progress: 12/?, Sketch remaining: 326Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 23, Progress: 12/?, Sketch remaining: 325Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 23, Progress: 12/?, Sketch remaining: 324Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 24, Progress: 12/?, Sketch remaining: 321Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 23, Progress: 12/?, Sketch remaining: 318Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 23, Progress: 12/?, Sketch remaining: 316Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 24, Progress: 12/?, Sketch remaining: 315Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 24, Progress: 12/?, Sketch remaining: 314Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 24, Progress: 12/?, Sketch remaining: 313Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 24, Progress: 12/?, Sketch remaining: 312Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 24, Progress: 12/?, Sketch remaining: 309Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 24, Progress: 12/?, Sketch remaining: 306Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 25, Progress: 12/?, Sketch remaining: 304Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 25, Progress: 12/?, Sketch remaining: 303Pass rate: 0.4166666666666667
+.......................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 25, Progress: 12/?, Sketch remaining: 302Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 25, Progress: 12/?, Sketch remaining: 301Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 25, Progress: 12/?, Sketch remaining: 300Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 25, Progress: 12/?, Sketch remaining: 297Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 26, Progress: 12/?, Sketch remaining: 294Pass rate: 0.4166666666666667
+.................................Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 25, Progress: 12/?, Sketch remaining: 292Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 26, Progress: 12/?, Sketch remaining: 291Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 26, Progress: 12/?, Sketch remaining: 290Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 26, Progress: 12/?, Sketch remaining: 289Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 26, Progress: 12/?, Sketch remaining: 288Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 26, Progress: 12/?, Sketch remaining: 285Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 26, Progress: 12/?, Sketch remaining: 282Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 27, Progress: 12/?, Sketch remaining: 280Pass rate: 0.4166666666666667
+................................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 27, Progress: 12/?, Sketch remaining: 279Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 27, Progress: 12/?, Sketch remaining: 278Pass rate: 0.4166666666666667
+.....................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 27, Progress: 12/?, Sketch remaining: 277Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 27, Progress: 12/?, Sketch remaining: 276Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 27, Progress: 12/?, Sketch remaining: 273Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 27, Progress: 12/?, Sketch remaining: 270Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 28, Progress: 12/?, Sketch remaining: 268Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 28, Progress: 12/?, Sketch remaining: 267Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 28, Progress: 12/?, Sketch remaining: 266Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 28, Progress: 12/?, Sketch remaining: 265Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 28, Progress: 12/?, Sketch remaining: 264Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 29, Progress: 12/?, Sketch remaining: 261Pass rate: 0.4166666666666667
+...........................................................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 28, Progress: 12/?, Sketch remaining: 258Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 29, Progress: 12/?, Sketch remaining: 256Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 28, Progress: 12/?, Sketch remaining: 255Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 29, Progress: 12/?, Sketch remaining: 254Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 29, Progress: 12/?, Sketch remaining: 253Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 29, Progress: 12/?, Sketch remaining: 252Pass rate: 0.4166666666666667
+...............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 30, Progress: 12/?, Sketch remaining: 249Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 29, Progress: 12/?, Sketch remaining: 246Pass rate: 0.4166666666666667
+..........................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 30, Progress: 12/?, Sketch remaining: 244Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 29, Progress: 12/?, Sketch remaining: 243Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 30, Progress: 12/?, Sketch remaining: 242Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 30, Progress: 12/?, Sketch remaining: 241Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 30, Progress: 12/?, Sketch remaining: 240Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 30, Progress: 12/?, Sketch remaining: 237Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 29, Progress: 12/?, Sketch remaining: 234Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 31, Progress: 12/?, Sketch remaining: 232Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 31, Progress: 12/?, Sketch remaining: 231Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 31, Progress: 12/?, Sketch remaining: 230Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 31, Progress: 12/?, Sketch remaining: 229Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 31, Progress: 12/?, Sketch remaining: 228Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 31, Progress: 12/?, Sketch remaining: 225Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 32, Progress: 12/?, Sketch remaining: 222Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 31, Progress: 12/?, Sketch remaining: 220Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 32, Progress: 12/?, Sketch remaining: 219Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 32, Progress: 12/?, Sketch remaining: 218Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 32, Progress: 12/?, Sketch remaining: 217Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 32, Progress: 12/?, Sketch remaining: 216Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 33, Progress: 12/?, Sketch remaining: 213Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 32, Progress: 12/?, Sketch remaining: 210Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 33, Progress: 12/?, Sketch remaining: 208Pass rate: 0.4166666666666667
+.................................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 32, Progress: 12/?, Sketch remaining: 207Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 33, Progress: 12/?, Sketch remaining: 206Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 33, Progress: 12/?, Sketch remaining: 205Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 33, Progress: 12/?, Sketch remaining: 204Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 33, Progress: 12/?, Sketch remaining: 201Pass rate: 0.4166666666666667
+...................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 34, Progress: 12/?, Sketch remaining: 198Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 33, Progress: 12/?, Sketch remaining: 196Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 34, Progress: 12/?, Sketch remaining: 195Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 34, Progress: 12/?, Sketch remaining: 194Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 34, Progress: 12/?, Sketch remaining: 193Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 34, Progress: 12/?, Sketch remaining: 192Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 35, Progress: 12/?, Sketch remaining: 189Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 34, Progress: 12/?, Sketch remaining: 186Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 34, Progress: 12/?, Sketch remaining: 184Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 35, Progress: 12/?, Sketch remaining: 183Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 35, Progress: 12/?, Sketch remaining: 182Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 35, Progress: 12/?, Sketch remaining: 181Pass rate: 0.4166666666666667
+.............................Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 35, Progress: 12/?, Sketch remaining: 180Pass rate: 0.4166666666666667
+.....................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 35, Progress: 12/?, Sketch remaining: 177Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 36, Progress: 12/?, Sketch remaining: 174Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 36, Progress: 12/?, Sketch remaining: 172Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 32, Progress: 12/?, Sketch remaining: 171Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 35, Progress: 12/?, Sketch remaining: 170Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 36, Progress: 12/?, Sketch remaining: 169Pass rate: 0.4166666666666667
+..................Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 36, Progress: 12/?, Sketch remaining: 168Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 36, Progress: 12/?, Sketch remaining: 165Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 36, Progress: 12/?, Sketch remaining: 162Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 37, Progress: 12/?, Sketch remaining: 160Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 37, Progress: 12/?, Sketch remaining: 159Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 37, Progress: 12/?, Sketch remaining: 158Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 37, Progress: 12/?, Sketch remaining: 157Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 37, Progress: 12/?, Sketch remaining: 156Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 37, Progress: 12/?, Sketch remaining: 153Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 37, Progress: 12/?, Sketch remaining: 150Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 38, Progress: 12/?, Sketch remaining: 148Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 38, Progress: 12/?, Sketch remaining: 147Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 38, Progress: 12/?, Sketch remaining: 146Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 38, Progress: 12/?, Sketch remaining: 145Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 38, Progress: 12/?, Sketch remaining: 144Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 39, Progress: 12/?, Sketch remaining: 141Pass rate: 0.4166666666666667
+...................Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 38, Progress: 12/?, Sketch remaining: 138Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 39, Progress: 12/?, Sketch remaining: 136Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 38, Progress: 12/?, Sketch remaining: 135Pass rate: 0.4166666666666667
+.............................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 39, Progress: 12/?, Sketch remaining: 134Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 39, Progress: 12/?, Sketch remaining: 133Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 39, Progress: 12/?, Sketch remaining: 132Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 39, Progress: 12/?, Sketch remaining: 129Pass rate: 0.4166666666666667
+....................................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 40, Progress: 12/?, Sketch remaining: 126Pass rate: 0.4166666666666667
+...............Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 40, Progress: 12/?, Sketch remaining: 124Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 39, Progress: 12/?, Sketch remaining: 123Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 40, Progress: 12/?, Sketch remaining: 122Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 39, Progress: 12/?, Sketch remaining: 121Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 40, Progress: 12/?, Sketch remaining: 120Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 41, Progress: 12/?, Sketch remaining: 117Pass rate: 0.4166666666666667
+..................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 41, Progress: 12/?, Sketch remaining: 114Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 40, Progress: 12/?, Sketch remaining: 112Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 40, Progress: 12/?, Sketch remaining: 111Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 41, Progress: 12/?, Sketch remaining: 110Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 41, Progress: 12/?, Sketch remaining: 109Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 41, Progress: 12/?, Sketch remaining: 108Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 41, Progress: 12/?, Sketch remaining: 105Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 42, Progress: 12/?, Sketch remaining: 102Pass rate: 0.4166666666666667
+.........Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 42, Progress: 12/?, Sketch remaining: 100Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 41, Progress: 12/?, Sketch remaining: 99Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 42, Progress: 12/?, Sketch remaining: 98Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 42, Progress: 12/?, Sketch remaining: 97Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 42, Progress: 12/?, Sketch remaining: 96Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 42, Progress: 12/?, Sketch remaining: 93Pass rate: 0.4166666666666667
+............Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 43, Progress: 12/?, Sketch remaining: 90Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 43, Progress: 12/?, Sketch remaining: 88Pass rate: 0.4166666666666667
+.............................Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 43, Progress: 12/?, Sketch remaining: 87Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 43, Progress: 12/?, Sketch remaining: 86Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 43, Progress: 12/?, Sketch remaining: 85Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 42, Progress: 12/?, Sketch remaining: 84Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 42, Progress: 12/?, Sketch remaining: 81Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 44, Progress: 12/?, Sketch remaining: 78Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 43, Progress: 12/?, Sketch remaining: 76Pass rate: 0.4166666666666667
+.............Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 44, Progress: 12/?, Sketch remaining: 75Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 44, Progress: 12/?, Sketch remaining: 74Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 44, Progress: 12/?, Sketch remaining: 73Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 44, Progress: 12/?, Sketch remaining: 72Pass rate: 0.4166666666666667
+..................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 45, Progress: 12/?, Sketch remaining: 69Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 44, Progress: 12/?, Sketch remaining: 66Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 44, Progress: 12/?, Sketch remaining: 64Pass rate: 0.4166666666666667
+.....................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 45, Progress: 12/?, Sketch remaining: 63Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 45, Progress: 12/?, Sketch remaining: 62Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 45, Progress: 12/?, Sketch remaining: 61Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 45, Progress: 12/?, Sketch remaining: 60Pass rate: 0.4166666666666667
+......Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 46, Progress: 12/?, Sketch remaining: 57Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 45, Progress: 12/?, Sketch remaining: 54Pass rate: 0.4166666666666667
+........................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 46, Progress: 12/?, Sketch remaining: 52Pass rate: 0.4166666666666667
+..........................Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 45, Progress: 12/?, Sketch remaining: 51Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 46, Progress: 12/?, Sketch remaining: 50Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 46, Progress: 12/?, Sketch remaining: 49Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 46, Progress: 12/?, Sketch remaining: 48Pass rate: 0.4166666666666667
+....Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 46, Progress: 12/?, Sketch remaining: 45Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 46, Progress: 12/?, Sketch remaining: 42Pass rate: 0.4166666666666667
+..........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 47, Progress: 12/?, Sketch remaining: 40Pass rate: 0.4166666666666667
+.........................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 47, Progress: 12/?, Sketch remaining: 39Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 47, Progress: 12/?, Sketch remaining: 38Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 47, Progress: 12/?, Sketch remaining: 37Pass rate: 0.4166666666666667
+..............Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 47, Progress: 12/?, Sketch remaining: 36Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 48, Progress: 12/?, Sketch remaining: 33Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 47, Progress: 12/?, Sketch remaining: 30Pass rate: 0.4166666666666667
+.................Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 47, Progress: 12/?, Sketch remaining: 28Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 48, Progress: 12/?, Sketch remaining: 27Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 47, Progress: 12/?, Sketch remaining: 26Pass rate: 0.4166666666666667
+..............................Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 48, Progress: 12/?, Sketch remaining: 25Pass rate: 0.4166666666666667
+.......Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 48, Progress: 12/?, Sketch remaining: 24Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 48, Progress: 12/?, Sketch remaining: 21Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 48, Progress: 12/?, Sketch remaining: 18Pass rate: 0.4166666666666667
+................Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 49, Progress: 12/?, Sketch remaining: 16Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 49, Progress: 12/?, Sketch remaining: 15Pass rate: 0.4166666666666667
+.............Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 49, Progress: 12/?, Sketch remaining: 14Pass rate: 0.4166666666666667
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 49, Progress: 12/?, Sketch remaining: 13Pass rate: 0.4166666666666667
+...........................Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 49, Progress: 12/?, Sketch remaining: 12Pass rate: 0.4166666666666667
+.Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 49, Progress: 12/?, Sketch remaining: 9Pass rate: 0.4166666666666667
+.....Success: False - [data/full_data/debug/valid_rand/mathd_algebra_31.json], try: 50, Progress: 12/?, Sketch remaining: 6Pass rate: 0.4166666666666667
+...Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 49, Progress: 12/?, Sketch remaining: 4Pass rate: 0.4166666666666667
+...........Success: False - [data/full_data/debug/valid_rand/amc12a_2008_p15.json], try: 50, Progress: 12/?, Sketch remaining: 3Pass rate: 0.4166666666666667
+..Success: False - [data/full_data/debug/valid_rand/amc12a_2021_p7.json], try: 50, Progress: 12/?, Sketch remaining: 2Pass rate: 0.4166666666666667
+........Success: False - [data/full_data/debug/valid_rand/mathd_numbertheory_149.json], try: 50, Progress: 12/?, Sketch remaining: 1Pass rate: 0.4166666666666667
+..Evolver-6 done!
+.....Evolver-5 done!
+Evolver-7 done!
+Success: False - [data/full_data/debug/valid_rand/mathd_algebra_116.json], try: 50, Progress: 12/?, Sketch remaining: 0Pass rate: 0.4166666666666667
+Prover-1 done!
+.Evolver-9 done!
+Evolver-10 done!
+Evolver-3 done!
+Evolver-4 done!
+Success: False - [data/full_data/debug/valid_rand/amc12b_2002_p3.json], try: 50, Progress: 12/?, Sketch remaining: 0Pass rate: 0.4166666666666667
+Prover-0 done!
+Waiting on process <Process name='Prover1' pid=29434 parent=28100 stopped exitcode=0>
+Waiting on process <Process name='Prover2' pid=29435 parent=28100 started>
+Success: False - [data/full_data/debug/valid_rand/aime_1991_p6.json], try: 50, Progress: 12/?, Sketch remaining: 0Pass rate: 0.4166666666666667
+Prover-2 done!
+Waiting on process <Process name='Evolver3' pid=29436 parent=28100 stopped exitcode=0>
+Waiting on process <Process name='Evolver4' pid=29438 parent=28100 stopped exitcode=0>
+Waiting on process <Process name='Evolver5' pid=29441 parent=28100 stopped exitcode=0>
+Waiting on process <Process name='Evolver6' pid=29442 parent=28100 stopped exitcode=0>
+Waiting on process <Process name='Evolver7' pid=29444 parent=28100 stopped exitcode=0>
+Waiting on process <Process name='Evolver8' pid=29445 parent=28100 started>
+Evolver-8 done!
+Waiting on process <Process name='Evolver9' pid=29447 parent=28100 stopped exitcode=0>
+Waiting on process <Process name='Evolver10' pid=29448 parent=28100 stopped exitcode=0>
+All processes done
+Finished at:
+2024-09-18T04:17:02-04:00

@@ -1,0 +1,112 @@
+# %% import sympy (import)
+import sympy
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% import math (import)
+import math
+
+
+# %% from sympy.geometry import Point (import)
+from sympy.geometry import Point
+
+
+# %% from sympy.geometry import Polygon (import)
+from sympy.geometry import Polygon
+
+
+# %% from sympy import Eq (import)
+from sympy import Eq
+
+
+# %% from sympy import sqrt (import)
+from sympy import sqrt
+
+
+# %% from sympy import cos (import)
+from sympy import cos
+
+
+# %% from sympy import sin (import)
+from sympy import sin
+
+
+# %% from sympy import * (import)
+from sympy import *
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+
+# %% from sympy import Polygon (import)
+from sympy import Polygon
+
+
+# %% from sympy import Point (import)
+from sympy import Point
+
+
+# %% from sympy.geometry import Line (import)
+from sympy.geometry import Line
+
+
+# %% from math import pi (import)
+from math import pi
+
+
+# %% from sympy import integrate (import)
+from sympy import integrate
+
+
+# %% from math import sin (import)
+from math import sin
+
+
+# %% from math import cos (import)
+from math import cos
+
+
+# %% from math import degrees (import)
+from math import degrees
+
+
+# %% from sympy import simplify (import)
+from sympy import simplify
+
+
+# %% from sympy import pi (import)
+from sympy import pi
+
+
+# %% from sympy.abc import h (import)
+from sympy.abc import h
+
+
+# %% from sympy.abc import D (import)
+from sympy.abc import D
+
+
+# %% from sympy.abc import V (import)
+from sympy.abc import V
+
+
+# %% from sympy.abc import d (import)
+from sympy.abc import d
+
+
+# %% from sympy.abc import v (import)
+from sympy.abc import v
+
+
+# %% from math import radians (import)
+from math import radians
+
+

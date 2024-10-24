@@ -1,0 +1,48 @@
+# %% from math import floor (import)
+from math import floor
+
+
+# %% from sympy import Abs (import)
+from sympy import Abs
+
+
+# %% from sympy import I (import)
+from sympy import I
+
+
+# %% from sympy import Min (import)
+from sympy import Min
+
+
+# %% from sympy import Piecewise (import)
+from sympy import Piecewise
+
+
+# %% from sympy.abc import I (import)
+from sympy.abc import I
+
+
+# %% from sympy import evalf (import)
+from sympy import evalf
+
+
+# %% from sympy import floor (import)
+from sympy import floor
+
+
+# %% from sympy import log (import)
+from sympy import log
+
+
+# %% from sympy import simplify (import)
+from sympy import simplify
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+

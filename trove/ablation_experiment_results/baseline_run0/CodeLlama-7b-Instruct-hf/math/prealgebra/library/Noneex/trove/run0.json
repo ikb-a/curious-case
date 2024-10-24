@@ -1,0 +1,51 @@
+# %% import math (import)
+import math
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %%  (function)
+
+def divisors(n):
+    return [x for x in range(1, n+1) if n % x == 0]
+
+
+# %% from sympy import divisors (import)
+from sympy import divisors
+
+
+# %%  (function)
+
+def is_prime(num):
+    if num <= 1:
+        return False
+    for i in range(2, int(num ** 0.5) + 1):
+        if num % i == 0:
+            return False
+    return True
+
+
+# %% import sympy as sp (import)
+import sympy as sp
+
+
+# %%  (function)
+
+def is_factor_of_34_or_multiple_of_7(num):
+    return num % 7 == 0 or num % 34 == 0
+
+
+# %% from sympy import isprime (import)
+from sympy import isprime
+
+
+# %% from statistics import median (import)
+from statistics import median
+
+

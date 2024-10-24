@@ -1,0 +1,7 @@
+lemma mod_10_units_digit:
+  fixes n :: nat
+  shows "n mod 10 = (n mod 10)"
+proof -
+  have "n mod 10 = n mod 10" by simp
+  thus ?thesis .
+qed

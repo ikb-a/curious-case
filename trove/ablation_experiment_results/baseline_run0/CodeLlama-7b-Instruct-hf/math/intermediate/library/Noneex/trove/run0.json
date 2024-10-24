@@ -1,0 +1,40 @@
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import Abs (import)
+from sympy import Abs
+
+
+# %% import sympy (import)
+import sympy
+
+
+# %% from sympy import expand (import)
+from sympy import expand
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy.abc import I (import)
+from sympy.abc import I
+
+
+# %% from sympy import factor (import)
+from sympy import factor
+
+
+# %% from sympy.abc import f (import)
+from sympy.abc import f
+
+
+# %% from sympy import I (import)
+from sympy import I
+
+
+# %% from sympy import log (import)
+from sympy import log
+
+

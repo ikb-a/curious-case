@@ -1,0 +1,40 @@
+# %% import math (import)
+import math
+
+
+# %% import sympy (import)
+import sympy
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy import tan (import)
+from sympy import tan
+
+
+# %% from sympy import pi (import)
+from sympy import pi
+
+
+# %% from math import pi (import)
+from math import pi
+
+
+# %% from sympy import cos (import)
+from sympy import cos
+
+
+# %% from sympy import sin (import)
+from sympy import sin
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+

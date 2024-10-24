@@ -1,0 +1,88 @@
+# %% import math (import)
+import math
+
+
+# %% from math import cos (import)
+from math import cos
+
+
+# %% from math import degrees (import)
+from math import degrees
+
+
+# %% from math import pi (import)
+from math import pi
+
+
+# %% from math import sin (import)
+from math import sin
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+
+# %% import sympy (import)
+import sympy
+
+
+# %% from sympy import * (import)
+from sympy import *
+
+
+# %% from sympy import Eq (import)
+from sympy import Eq
+
+
+# %% from sympy import cos (import)
+from sympy import cos
+
+
+# %% from sympy.geometry import Line (import)
+from sympy.geometry import Line
+
+
+# %% from sympy.geometry import Point (import)
+from sympy.geometry import Point
+
+
+# %% from sympy.geometry import Polygon (import)
+from sympy.geometry import Polygon
+
+
+# %% from sympy import integrate (import)
+from sympy import integrate
+
+
+# %% from sympy import pi (import)
+from sympy import pi
+
+
+# %% from sympy import simplify (import)
+from sympy import simplify
+
+
+# %% from sympy import sin (import)
+from sympy import sin
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy import sqrt (import)
+from sympy import sqrt
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from math import tan (import)
+from math import tan
+
+
+# %% from sympy import pprint (import)
+from sympy import pprint
+
+

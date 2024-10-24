@@ -1,0 +1,1 @@
+{"request_0": {"request_name": "request_0", "problem_name": "data/full_data/debug/valid_rand/algebra_2varlineareq_xpeeq7_2xpeeq3_eeq11_xeqn4.json", "formal_statement": "lemma linear_eq_substitution:\n  fixes x e :: complex\n  assumes \"x + e = 7\" and \"2 * x + e = 3\"\n  shows \"e = 7 - x\"", "update_count": 1}}

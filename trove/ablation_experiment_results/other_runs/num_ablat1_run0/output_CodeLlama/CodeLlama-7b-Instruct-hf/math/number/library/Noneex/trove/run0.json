@@ -1,0 +1,129 @@
+# %%  (function)
+
+def gcd(a, b):
+    while b != 0:
+        a, b = b, a % b
+    return a
+
+
+
+# %%  (function)
+
+def is_prime(n):
+    if n == 2 or n == 3:
+        return True
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+
+
+# %% import itertools (import)
+import itertools
+
+
+# %% import math (import)
+import math
+
+
+# %% from math import gcd (import)
+from math import gcd
+
+
+# %% import numpy as np (import)
+import numpy as np
+
+
+# %%  (function)
+
+def gcd_list(L):
+    if len(L) == 1:
+        return L[0]
+    else:
+        return gcd(L[0], gcd_list(L[1:]))
+
+
+
+# %%  (function)
+
+def get_gcd(n):
+    L = []
+    for i in range(n):
+        for j in range(i, n):
+            L.append(i*j)
+    return gcd_list(L)
+
+print(get_gcd(4))
+
+
+# %% Convert a number from one base to another (function)
+
+def convert_base(num, base_in, base_out):
+    """
+    Convert a number from one base to another
+    """
+    digits = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+    if num == 0:
+        return '0'
+    res = ''
+    while num > 0:
+        res = digits[num % base_out] + res
+        num //= base_out
+    return res
+
+
+# %%  (function)
+
+def is_relatively_prime(a, b):
+    if a % b == 0 or b % a == 0:
+        return False
+    else:
+        return True
+
+
+# %% from __future__ import division (import)
+from __future__ import division
+
+
+# %%  (function)
+
+def euler(n):
+    p = n**2 - n + 41
+    if p % 2 == 0:
+        return False
+    for i in range(3, int(p**0.5) + 1, 2):
+        if p % i == 0:
+            return False
+    return True
+
+
+# %% from datetime import datetime (import)
+from datetime import datetime
+
+
+# %%  (function)
+
+def gcf(a, b):
+    while b != 0:
+        a, b = b, a % b
+    return a
+
+
+# %%  (function)
+
+def base_to_digits(number, base):
+    digits = []
+    while number > 0:
+        digits.append(number % base)
+        number //= base
+    return digits
+
+
+
+# %%  (function)
+
+def sum_digits(digits):
+    return sum(digits)
+
+

@@ -1,0 +1,116 @@
+# %% import math (import)
+import math
+
+
+# %% from math import log (import)
+from math import log
+
+
+# %% import sympy (import)
+import sympy
+
+
+# %% from sympy import * (import)
+from sympy import *
+
+
+# %% from sympy import Eq (import)
+from sympy import Eq
+
+
+# %% from sympy import I (import)
+from sympy import I
+
+
+# %% from sympy import Poly (import)
+from sympy import Poly
+
+
+# %% from sympy.abc import x (import)
+from sympy.abc import x
+
+
+# %% from sympy import diff (import)
+from sympy import diff
+
+
+# %% from sympy import expand (import)
+from sympy import expand
+
+
+# %% from sympy import factor (import)
+from sympy import factor
+
+
+# %% from sympy import floor (import)
+from sympy import floor
+
+
+# %% from sympy import gcd (import)
+from sympy import gcd
+
+
+# %% from sympy import log (import)
+from sympy import log
+
+
+# %% from sympy import simplify (import)
+from sympy import simplify
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy import sqrt (import)
+from sympy import sqrt
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import factorial (import)
+from sympy import factorial
+
+
+# %% from sympy import poly (import)
+from sympy import poly
+
+
+# %% from sympy import Min (import)
+from sympy import Min
+
+
+# %% from sympy import sin (import)
+from sympy import sin
+
+
+# %% from sympy import Abs (import)
+from sympy import Abs
+
+
+# %% from sympy import binomial (import)
+from sympy import binomial
+
+
+# %% from sympy import oo (import)
+from sympy import oo
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+
+# %% from math import ceil (import)
+from math import ceil
+
+
+# %% from math import floor (import)
+from math import floor
+
+
+# %% from sympy import Sum (import)
+from sympy import Sum
+
+

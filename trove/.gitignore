@@ -1,0 +1,15 @@
+env
+*.sif
+**/__pycache__
+**.out
+**.err
+*.code-workspace
+.vscode
+outputs
+tmp_exec_online.py
+data_exploration/check_lens.py
+test_api.py
+log_output
+delete_me_test_dir
+utils/keys_anthropic.txt
+old_ignore/*

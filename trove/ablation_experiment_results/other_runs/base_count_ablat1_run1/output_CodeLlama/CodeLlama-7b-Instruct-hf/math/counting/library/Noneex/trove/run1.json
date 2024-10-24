@@ -1,0 +1,44 @@
+# %% from datetime import datetime (import)
+from datetime import datetime
+
+
+# %% import math (import)
+import math
+
+
+# %%  (function)
+
+def f(n):
+    return n
+
+
+# %% import random (import)
+import random
+
+
+# %% import datetime (import)
+import datetime
+
+
+# %% import itertools (import)
+import itertools
+
+
+# %% import matplotlib.pyplot as plt (import)
+import matplotlib.pyplot as plt
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+
+# %% from itertools import product (import)
+from itertools import product
+
+
+# %%  (function)
+# https://math.stackexchange.com/questions/1079924/a-tribe-of-eight-native-americans-sits-in-a-circle-around-a-campfire
+def count_seating(n):
+    return (n * (n - 1)) // 2
+
+

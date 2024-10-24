@@ -1,0 +1,22 @@
+lemma minimum_value_expression:
+  fixes x y :: real
+  shows "1 \<le> (x * y - 1)^2 + (x + y)^2"
+proof -
+  have "0 \<le> (x * y - 1)^2" by (simp add: power2_eq_square)
+  have "0 \<le> (x + y)^2" by (simp add: power2_eq_square)
+  then have "(x * y - 1)^2 + (x + y)^2 \<ge> 0 + 0" 
+    by (simp add: add_nonneg_nonneg)
+  have "(x * y - 1)^2 + (x + y)^2 = (x * y)^2 - 2 * (x * y) + 1 + (x^2 + 2 * x * y + y^2)"
+    by sos
+  also have "... = (x^2 * y^2) + (x^2) + (y^2) + 1" 
+    by (simp add: algebra_simps)
+  have "((x * y)^2 + (x^2 + y^2) + 1 - 1) = (x * y)^2 + (x^2 + y^2)" 
+    by (simp add: algebra_simps)
+  have "0 \<le> (x * y)^2" by (simp add: power2_eq_square)
+  have "0 \<le> x^2" by (simp add: power2_eq_square)
+  have "0 \<le> y^2" by (simp add: power2_eq_square)
+  have "((x * y)^2 + (x^2 + y^2) + 1) \<ge> 1" 
+    by (simp add: add_nonneg_nonneg)
+  thus ?thesis 
+    by sos
+qed

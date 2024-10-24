@@ -1,0 +1,59 @@
+# %% import math (import)
+import math
+
+
+# %%  (function)
+
+def isPalindrome(n):
+    return str(n) == str(n)[::-1]
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %%  (function)
+
+def is_prime(n):
+    if n < 2:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+
+# %% import itertools (import)
+import itertools
+
+
+# %%  (function)
+
+def get_distinct_elements(n):
+    elements = [n-2, n+2, 2*n, n/2]
+    return len(set(elements))
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+
+# %%  (function)
+
+def is_palindrome(n):
+    return str(n) == str(n)[::-1]
+
+
+# %%  (function)
+
+def seatings(n):
+    for i in range(0, n+1):
+        for j in range(i+2, n+1):
+            yield (i, j)
+
+
+

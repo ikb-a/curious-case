@@ -1,0 +1,63 @@
+# %%  (function)
+
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+
+# %%  (function)
+
+def gcd(a, b):
+    while b:
+        a, b = b, a % b
+    return a
+
+
+# %%  (function)
+
+def get_divisors(n):
+    divisors = []
+    for i in range(1, n + 1):
+        if n % i == 0:
+            divisors.append(i)
+    return divisors
+
+
+# %%  (function)
+
+def least_solution(r):
+    return (r**2 + 4*r + 4) % 55 == (r**2 + 2*r + 1) % 55
+
+
+# %% import math (import)
+import math
+
+
+# %% from math import factorial (import)
+from math import factorial
+
+
+# %% from math import gcd (import)
+from math import gcd
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+
+# %% import numpy as np (import)
+import numpy as np
+
+
+# %%  (function)
+import math
+import numpy as np
+from math import factorial
+from math import gcd
+
+def sqrt(n):
+    return n ** 0.5
+
+

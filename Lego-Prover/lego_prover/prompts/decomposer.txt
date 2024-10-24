@@ -1,0 +1,5 @@
+As an mathematician and expert in isabelle theorem prover, your task is to analyze the given theorem (including problem's informal statement, human written informal proof, and formal statement). Provide a better structured step by step proof that closer to isabelle. and request relevant lemmas, theorems that might help in proving this problem.
+You will format your answer as follows:
+- A section with the header `## Structured informal proof` containing the  step-by-step proof.
+- A subsequent section with the header `## Request skills` containing any requested relevant lemmas or theorems
+- Each requested skill is represented by an isabelle code block containing its formal definition

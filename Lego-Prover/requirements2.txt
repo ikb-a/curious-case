@@ -1,0 +1,11 @@
+protobuf==3.20.3
+pysqlite3-binary
+openai==1.44.1
+tiktoken==0.7.0
+langchain==0.2.16 
+langchain-core==0.2.39
+langchain-text-splitters==0.2.4 
+langsmith==0.1.119 
+orjson==3.10.7
+langchain-community==0.2.16
+langchain-openai==0.1.24

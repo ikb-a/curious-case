@@ -1,0 +1,181 @@
+===============================
+gpt_informal_valid
+Total questions solved: 127
+Questions using a lemma verbatim: 18/127 = 14.17%
+Questions using a lemma name: 28/127 = 22.05%
+
+Total number lemmas used in at least one prompt: 374
+Total number of lemmas appearing verbatim in LLM output: 24
+
+Number of Lemmas (i.e., skill in prompt) containing $N$ `theorem` or `lemma` statements:
+{
+	1: 327/374 = 87.43%
+	2: 36/374 = 9.63%
+	3: 11/374 = 2.94%
+}
+
+Number of Lemmas used in $N$ tasks (specifically, contained in the task's final prompts to the solver)
+{
+	1: 256/374 = 68.45%
+	2: 48/374 = 12.83%
+	3: 16/374 = 4.28%
+	4: 14/374 = 3.74%
+	5: 11/374 = 2.94%
+	6: 10/374 = 2.67%
+	7: 4/374 = 1.07%
+	8: 3/374 = 0.80%
+	9: 4/374 = 1.07%
+	10: 2/374 = 0.53%
+	11: 1/374 = 0.27%
+	12: 1/374 = 0.27%
+	13: 1/374 = 0.27%
+	14: 1/374 = 0.27%
+	15: 1/374 = 0.27%
+	18: 1/374 = 0.27%
+}
+
+Number of Lemma reproduced exactly in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions used the Lemma verbatim):
+{
+	1: 24/374 = 6.42%
+}
+
+Number of Lemmas whose *name* appears in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions contained the *name* of the Lemma):
+{
+	1: 65/374 = 17.38%
+	2: 1/374 = 0.27%
+}
+===============================
+human_informal_valid
+Total questions solved: 135
+Questions using a lemma verbatim: 17/135 = 12.59%
+Questions using a lemma name: 29/135 = 21.48%
+
+Total number lemmas used in at least one prompt: 265
+Total number of lemmas appearing verbatim in LLM output: 19
+
+Number of Lemmas (i.e., skill in prompt) containing $N$ `theorem` or `lemma` statements:
+{
+	1: 241/265 = 90.94%
+	2: 22/265 = 8.30%
+	3: 2/265 = 0.75%
+}
+
+Number of Lemmas used in $N$ tasks (specifically, contained in the task's final prompts to the solver)
+{
+	1: 178/265 = 67.17%
+	2: 30/265 = 11.32%
+	3: 19/265 = 7.17%
+	4: 8/265 = 3.02%
+	5: 8/265 = 3.02%
+	6: 4/265 = 1.51%
+	7: 3/265 = 1.13%
+	8: 3/265 = 1.13%
+	9: 3/265 = 1.13%
+	10: 3/265 = 1.13%
+	11: 1/265 = 0.38%
+	14: 2/265 = 0.75%
+	17: 1/265 = 0.38%
+	19: 1/265 = 0.38%
+	24: 1/265 = 0.38%
+}
+
+Number of Lemma reproduced exactly in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions used the Lemma verbatim):
+{
+	1: 19/265 = 7.17%
+}
+
+Number of Lemmas whose *name* appears in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions contained the *name* of the Lemma):
+{
+	1: 51/265 = 19.25%
+	2: 1/265 = 0.38%
+}
+===============================
+gpt_informal_test
+Total questions solved: 111
+Questions using a lemma verbatim: 14/111 = 12.61%
+Questions using a lemma name: 24/111 = 21.62%
+
+Total number lemmas used in at least one prompt: 255
+Total number of lemmas appearing verbatim in LLM output: 17
+
+Number of Lemmas (i.e., skill in prompt) containing $N$ `theorem` or `lemma` statements:
+{
+	1: 236/255 = 92.55%
+	2: 16/255 = 6.27%
+	3: 2/255 = 0.78%
+	4: 1/255 = 0.39%
+}
+
+Number of Lemmas used in $N$ tasks (specifically, contained in the task's final prompts to the solver)
+{
+	1: 192/255 = 75.29%
+	2: 25/255 = 9.80%
+	3: 14/255 = 5.49%
+	4: 8/255 = 3.14%
+	5: 2/255 = 0.78%
+	6: 3/255 = 1.18%
+	7: 3/255 = 1.18%
+	8: 4/255 = 1.57%
+	11: 2/255 = 0.78%
+	12: 1/255 = 0.39%
+	13: 1/255 = 0.39%
+}
+
+Number of Lemma reproduced exactly in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions used the Lemma verbatim):
+{
+	1: 17/255 = 6.67%
+}
+
+Number of Lemmas whose *name* appears in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions contained the *name* of the Lemma):
+{
+	1: 40/255 = 15.69%
+	2: 2/255 = 0.78%
+}
+===============================
+human_informal_test
+Total questions solved: 122
+Questions using a lemma verbatim: 24/122 = 19.67%
+Questions using a lemma name: 36/122 = 29.51%
+
+Total number lemmas used in at least one prompt: 339
+Total number of lemmas appearing verbatim in LLM output: 30
+
+Number of Lemmas (i.e., skill in prompt) containing $N$ `theorem` or `lemma` statements:
+{
+	1: 296/339 = 87.32%
+	2: 35/339 = 10.32%
+	3: 5/339 = 1.47%
+	4: 2/339 = 0.59%
+	5: 1/339 = 0.29%
+}
+
+Number of Lemmas used in $N$ tasks (specifically, contained in the task's final prompts to the solver)
+{
+	1: 244/339 = 71.98%
+	2: 34/339 = 10.03%
+	3: 20/339 = 5.90%
+	4: 16/339 = 4.72%
+	5: 6/339 = 1.77%
+	6: 1/339 = 0.29%
+	7: 2/339 = 0.59%
+	8: 6/339 = 1.77%
+	9: 1/339 = 0.29%
+	10: 1/339 = 0.29%
+	11: 3/339 = 0.88%
+	12: 1/339 = 0.29%
+	13: 2/339 = 0.59%
+	15: 1/339 = 0.29%
+	17: 1/339 = 0.29%
+}
+
+Number of Lemma reproduced exactly in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions used the Lemma verbatim):
+{
+	1: 29/339 = 8.55%
+	2: 1/339 = 0.29%
+}
+
+Number of Lemmas whose *name* appears in $N$ LLM outputs (i.e., $N$ is the number of tasks whose solutions contained the *name* of the Lemma):
+{
+	1: 75/339 = 22.12%
+	2: 2/339 = 0.59%
+}

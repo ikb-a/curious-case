@@ -1,0 +1,40 @@
+# %% import itertools (import)
+import itertools
+
+
+# %% import sympy (import)
+import sympy
+
+
+# %% from sympy import I (import)
+from sympy import I
+
+
+# %% from sympy import arithmetic_sequence (import)
+from sympy import arithmetic_sequence
+
+
+# %% from sympy import expand (import)
+from sympy import expand
+
+
+# %% from sympy import factor (import)
+from sympy import factor
+
+
+# %% from sympy import log (import)
+from sympy import log
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy import sqrt (import)
+from sympy import sqrt
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+

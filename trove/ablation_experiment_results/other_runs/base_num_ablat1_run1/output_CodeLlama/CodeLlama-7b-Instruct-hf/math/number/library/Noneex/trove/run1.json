@@ -1,0 +1,83 @@
+# %%  (function)
+
+def base_conversion(n, base):
+    if n == 0:
+        return '0'
+    digits = []
+    while n > 0:
+        digits.append(str(n % base))
+        n //= base
+    return ''.join(reversed(digits))
+
+
+# %%  (function)
+
+def count_prime_factors(n):
+    factors = {}
+    for p in range(2,int(n**0.5)+1):
+        while n % p == 0:
+            n //= p
+            factors[p] = factors.get(p,0) + 1
+    if n > 1:
+        factors[n] = factors.get(n,0) + 1
+    return factors
+
+
+# %%  (function)
+
+def gcd(a,b):
+    while b:
+        a,b = b,a%b
+    return a
+
+
+
+# %%  (function)
+
+def gcd_list(l):
+    if len(l) == 0:
+        return 0
+    else:
+        return gcd(l[0], gcd_list(l[1:]))
+
+
+# %%  (function)
+
+def get_congruent_numbers(start, end, mod):
+    return sum(1 for i in range(start, end + 1) if i % mod == 5)
+
+
+# %%  (function)
+
+def get_divisors(n):
+    divisors = []
+    for i in range(1, n + 1):
+        if n % i == 0:
+            divisors.append(i)
+    return divisors
+
+
+# %% import math (import)
+import math
+
+
+# %% from math import factorial (import)
+from math import factorial
+
+
+# %% from math import gcd (import)
+from math import gcd
+
+
+# %% import numpy as np (import)
+import numpy as np
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+

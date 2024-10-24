@@ -1,0 +1,2 @@
+remainder_of_twice_the_number = 2 * remainder_when_divided_by_5
+print(remainder_of_twice_the_number)

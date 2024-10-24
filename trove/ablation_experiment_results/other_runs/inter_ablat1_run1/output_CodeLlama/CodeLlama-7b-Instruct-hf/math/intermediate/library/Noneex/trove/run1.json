@@ -1,0 +1,150 @@
+# %%  (function)
+
+def f(x):
+    return x**2
+
+
+# %% import itertools (import)
+import itertools
+
+
+# %% import math (import)
+import math
+
+
+# %% from math import floor (import)
+from math import floor
+
+
+# %% from math import sqrt (import)
+from math import sqrt
+
+
+# %% import sympy (import)
+import sympy
+
+
+# %% from sympy import Abs (import)
+from sympy import Abs
+
+
+# %% from sympy import Eq (import)
+from sympy import Eq
+
+
+# %% from sympy import Function (import)
+from sympy import Function
+
+
+# %% from sympy import I (import)
+from sympy import I
+
+
+# %% from sympy import Matrix (import)
+from sympy import Matrix
+
+
+# %% from sympy import Max (import)
+from sympy import Max
+
+
+# %% from sympy import Poly (import)
+from sympy import Poly
+
+
+# %% from sympy import Symbol (import)
+from sympy import Symbol
+
+
+# %% from sympy.abc import I (import)
+from sympy.abc import I
+
+
+# %% from sympy.abc import x (import)
+from sympy.abc import x
+
+
+# %% from sympy import binomial (import)
+from sympy import binomial
+
+
+# %% from sympy import diff (import)
+from sympy import diff
+
+
+# %% from sympy import expand (import)
+from sympy import expand
+
+
+# %% from sympy import expand_mul (import)
+from sympy import expand_mul
+
+
+# %% from sympy import factor (import)
+from sympy import factor
+
+
+# %% from sympy import floor (import)
+from sympy import floor
+
+
+# %% from sympy import integrate (import)
+from sympy import integrate
+
+
+# %% from sympy import log (import)
+from sympy import log
+
+
+# %% from sympy import pi (import)
+from sympy import pi
+
+
+# %% from sympy import simplify (import)
+from sympy import simplify
+
+
+# %% from sympy import sin (import)
+from sympy import sin
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy.solvers import solve (import)
+from sympy.solvers import solve
+
+
+# %% from sympy import sqrt (import)
+from sympy import sqrt
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import * (import)
+from sympy import *
+
+
+# %% import cmath (import)
+import cmath
+
+
+# %% from sympy import cos (import)
+from sympy import cos
+
+
+# %% from cmath import * (import)
+from cmath import *
+
+
+# %% from sympy import Sum (import)
+from sympy import Sum
+
+
+# %% from math import log (import)
+from math import log
+
+

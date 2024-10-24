@@ -1,0 +1,90 @@
+# %% import math (import)
+import math
+
+
+# %%  (function)
+
+def gcd(a,b):
+    while b!= 0:
+        a, b = b, a % b
+    return a
+
+
+# %% from math import gcd (import)
+from math import gcd
+
+
+# %%  (function)
+
+def is_perfect_square(n):
+    root = int(n**0.5)
+    return root**2 == n
+
+
+
+# %%  (function)
+
+def rearrangement(n):
+    n_str = str(n)
+    for i in range(1, len(n_str)):
+        n_str_1 = n_str[:i] + n_str[i+1:]
+        n_str_2 = n_str[i+1:] + n_str[:i]
+        if int(n_str_1) == int(n_str_2):
+            return True
+    return False
+
+
+# %% import numpy as np (import)
+import numpy as np
+
+
+# %%  (function)
+
+def find_remainder(a, b, c):
+    remainder = 0
+    remainder += a * 2 * b + b * c + c * a
+    remainder += a * b + b * 2 * c + c * a
+    remainder += a * b + b * c + c * 2
+    remainder = remainder % 13
+    return remainder
+
+
+# %%  (function)
+
+def smallest_largest_prime_factors(n):
+    factors = []
+    for i in range(2, int(n**0.5) + 1):
+        while n % i == 0:
+            factors.append(i)
+            n //= i
+    if n > 1:
+        factors.append(n)
+    return factors
+
+
+
+# %%  (function)
+
+def sum_smallest_largest_prime_factors(n):
+    factors = smallest_largest_prime_factors(n)
+    return sum(factors)
+
+
+# %%  (function)
+
+def number_of_divisors(n):
+    count = 0
+    for i in range(1, n + 1):
+        if n % i == 0:
+            count += 1
+    return count
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+

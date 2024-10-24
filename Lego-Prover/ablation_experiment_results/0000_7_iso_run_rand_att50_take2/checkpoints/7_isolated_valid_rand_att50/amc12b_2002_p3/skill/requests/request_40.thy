@@ -1,0 +1,2 @@
+lemma even_prime:
+  shows "p prime ⟹ (p mod 2 = 0) ⟷ (p = 2)"

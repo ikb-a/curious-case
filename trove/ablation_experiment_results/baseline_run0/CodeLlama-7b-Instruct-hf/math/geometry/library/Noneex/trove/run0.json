@@ -1,0 +1,44 @@
+# %% import sympy (import)
+import sympy
+
+
+# %% import math (import)
+import math
+
+
+# %% from sympy import symbols (import)
+from sympy import symbols
+
+
+# %% from sympy import solve (import)
+from sympy import solve
+
+
+# %% from sympy import sqrt (import)
+from sympy import sqrt
+
+
+# %% from math import pi (import)
+from math import pi
+
+
+# %% from sympy import pi (import)
+from sympy import pi
+
+
+# %% from sympy.geometry import Point (import)
+from sympy.geometry import Point
+
+
+# %% from sympy import Point (import)
+from sympy import Point
+
+
+# %% from sympy import simplify (import)
+from sympy import simplify
+
+
+# %% from sympy.geometry import Line (import)
+from sympy.geometry import Line
+
+
