@@ -14,7 +14,7 @@ As TroVE executes arbitrary LLM-generated code we **strongly** suggest using a s
 
 To install Singularity, see [https://github.com/sylabs/singularity](https://github.com/sylabs/singularity). Note that we used Singularity Community Edition 3.8.2 in our experiments.
 
-We have provided a Ubuntu 22.04 singularity container that already contains the Python 3.10.12 environment with all its dependencies. The .sif file can be downloaded from a link [COMING SOON!].
+We have provided a Ubuntu 22.04 singularity container that already contains the Python 3.10.12 environment with all its dependencies. The .sif file can be downloaded from [this link](https://drive.google.com/file/d/1wLgv7t9a30oT9I2XHwT7XAc-PsI9m7L-/view?usp=sharing).
 
 In the case that you want to use a different method to sandbox, you can set up the Python environment by running:
 
@@ -45,7 +45,7 @@ NOTE: To reduce the storage requirements, we searched for overly long program ou
     python one_time_setup/download_hf_files.py
     ```
 
-2. Download the singularity file `trove_sing_v4.sif` from this link [COMING SOON!], and place it in this directory.
+2. Download the singularity file `trove_sing_v4.sif` from [this link](https://drive.google.com/file/d/1wLgv7t9a30oT9I2XHwT7XAc-PsI9m7L-/view?usp=sharing), and place it in this directory.
 
 2. Go into [exec_baseline_trove.sh](exec_baseline_trove.sh) and [exec_ablated_trove.sh](exec_ablated_trove.sh). Edit the environment variables in the header:
     - EXPERIMENT_NAME: The name for this experiment. A subfolder with this name will be created to store the experiment results.
